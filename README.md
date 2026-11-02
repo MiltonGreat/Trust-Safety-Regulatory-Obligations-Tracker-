@@ -68,12 +68,4 @@ This repository is intended as a **portfolio artifact** for Trust & Safety, comp
 - Adapt the tracker template for your own regulatory tracking.
 - Reference the guidance document as an example of translating legislation into operational requirements.
 
-If you have questions or feedback, please open an issue or connect with me on LinkedIn.
-
----
-
-## About the Author
-
-**Milton Wani** is a governance, risk, and compliance professional based in Montreal, with a background in regulatory analysis, documentation, and project coordination. He is transitioning into Trust & Safety and regulatory compliance roles after building a portfolio of governance artifacts. He holds a Masters of Public Administration and a Diploma in Public Accountancy, and is a CompTIA Security+ certification holder.
-
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username) | [Portfolio](https://your-portfolio-link.com)
+If you have questions or feedback, please open an issue.
